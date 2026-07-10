@@ -14,9 +14,9 @@ Building hands-on projects across network security, web application testing, and
 | Project | Description | Stack |
 |---|---|---|
 | [Cloud Misconfiguration Scanner](https://github.com/moscvv/cloud-misconfig-scanner) | Audits AWS accounts for public S3 buckets, open security groups, and wildcard IAM policies | Python, Boto3, AWS |
-| [Web Vulnerability Scanner](https://github.com/moscvv/web-vuln-scanner) | Checks URLs for OWASP Top 10 issues — missing headers, open redirects, SQLi indicators | Python, Requests, DVWA |
-| [Network Recon Tool](https://github.com/moscvv/network-recon-tool) | Host discovery, port scanning, and service fingerprinting using raw sockets | Python, Scapy |
-| [CTF Writeups](https://github.com/moscvv/ctf-writeups) | TryHackMe solutions covering privilege escalation, web hacking, and basic exploitation | TryHackMe, Markdown |
+| [Web Vulnerability Scanner](https://github.com/Moscvv/websentinel) | Checks URLs for OWASP Top 10 issues — missing headers, open redirects, SQLi indicators | Python, Requests, DVWA |
+| [Network Recon Tool](https://github.com/Moscvv/NetProbe) | Host discovery, port scanning, and service fingerprinting using raw sockets | Python, Scapy |
+| [CTF Writeups](https://github.com/Moscvv/thm-cybersec-portfolio) | TryHackMe solutions covering privilege escalation, web hacking, and basic exploitation | TryHackMe, Markdown |
 
 ---
 
